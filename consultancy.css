@@ -1,0 +1,28 @@
+
+
+
+
+.textstyle {
+    max-width: 600px;
+    margin: 0 auto 20px;
+}
+
+.Txtedit {
+    
+    color:red;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 45px;
+
+
+}
+
+.cornerimage {
+    border-radius: 10px 40px 40px 10px;
+    border: solid 10px;
+  
+  }
+
+  .Fontx {
+    font-family: 'Domine', serif;
+    font-size: 25px;
+}
